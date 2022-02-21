@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pujith22
 - 👀 I’m interested in building large scale distributed applications
-- 🌱 I’m currently learning ruby on Rails and 
+- 🌱 I’m currently working with Ruby on Rails and 
 - 💞️ I am occupied currently, so not available for collaboration as of now.
 - 📫 Reach me at pujith22.sde@gmail.com
 
