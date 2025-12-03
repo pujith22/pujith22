@@ -37,8 +37,6 @@ I build and explore **distributed systems**, **machine intelligence**, and **Lea
 
 ## 🚀 Recent Projects & Highlights
 
-## 🚀 Recent Projects & Highlights
-
 ### 🔑 [Persistent Key-Value Store](https://github.com/pujith22/persistent-key-value-store)
 Multi-threaded C++ server with PostgreSQL persistence and RESTful APIs. Achieves ~35K RPM on M2 MacBook Pro.
 
