@@ -55,18 +55,6 @@ Android + ML project identifying contamination zones using location data and mac
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=pujith22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pujith22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-  
-</div>
-
----
-
 <div align="center">
   
   *This README mirrors the public portfolio at [pujith.com](https://www.pujith.com) and [cse.iitb.ac.in/~pujith](https://www.cse.iitb.ac.in/~pujith)*
